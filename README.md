@@ -70,7 +70,7 @@ sync
 eject sd card.
 
 -----------------------------------------------------------------------
-Here are the summary of the tests: ( see rk3328_gpio.png )
+Here are the summary of the tests: ( see https://wiki.radxa.com/Rockpi4/hardware/gpio )
 These tests used Seeed Grove starter kit LED, button, buzzer, Grove-LCD RGB Backlight V3.0 JHD1313M2, Analog Servo and Adafruit SSD1306 128x32 SPI OLED Display.
 1. uart test. 
    This test is to test uart tx and rx.
