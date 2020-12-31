@@ -91,7 +91,7 @@ void uart_test( void )
 {
     char ch;
 
-    printf( "Hello ! Type a sentance and press enter.\r\n" );
+    printf( "Hello ! Type a sentence and press enter.\r\n" );
     ch = '\0';
     while( ch != '\r') {
         ch = uart_getc();
